@@ -33,6 +33,11 @@ This is the layout used in the previous car-catalogue, I'll need to break it apa
  ----- .H files -----
 
 **CarCatHeaders.h:**
+  - "CatFunc.h"
+  - "Cars.h"
+  - "UsePuts.h"
+  - "ValIndex.h"
+  - "Savld.h"
 
 **Cars.h:**
 
