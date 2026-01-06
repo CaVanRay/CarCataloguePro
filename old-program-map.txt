@@ -58,7 +58,12 @@ This is the layout used in the previous car-catalogue, I'll need to break it apa
   - loadCatalogue()
 
 **UsePuts.h:**
-
+  - "<vector>"
+  - "Cars.h"
+  - optionsMenu()
+  - printCatalogue()
+  - printCar()
+  - findCar()
 
 **ValIndex.h:**
 
