@@ -43,6 +43,8 @@ This is the layout used in the previous car-catalogue, I'll need to break it apa
   - "Class car"
  
 **CatFunc.h:**
+  - "<vector>"
+  - "Cars.h"
   - addCar()
   - repCar()
   - editCar()
