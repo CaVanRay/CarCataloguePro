@@ -66,4 +66,12 @@ This is the layout used in the previous car-catalogue, I'll need to break it apa
   - findCar()
 
 **ValIndex.h:**
-
+  - "<vector>"
+  - "Cars.h"
+  - indexUpdate()
+  - getString()
+  - getInt()
+  - getDouble()
+  - getYN()
+  - isValidVin()
+  - getVIN()
