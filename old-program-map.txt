@@ -33,6 +33,15 @@ This is the layout used in the previous car-catalogue, I'll need to break it apa
  ----- .H files -----
 
 **CarCatHeaders.h:**
+  - "<algorithm>"
+  - "<iostream>"
+  - "<stdlib.h>"
+  - "<fstream>"
+  - "<sstream>"
+  - "<string>"
+  - "<vector>"
+  - "<limits>"
+  - "<cctype>"
   - "CatFunc.h"
   - "Cars.h"
   - "UsePuts.h"
