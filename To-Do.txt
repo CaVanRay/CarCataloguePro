@@ -8,4 +8,4 @@ re-write the entire program, simplify current functionality as much as possible,
 
 everything needs to be clean, lean, and solid
 
-after the entire thing is done
+after the entire thing is done, then we can move forward
