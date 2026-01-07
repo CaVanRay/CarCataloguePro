@@ -6,4 +6,4 @@ go through the entirety of CarCatalogue1 line by line
 
 re-write the entire program, simplify current functionality as much as possible, make it as small as possible
 
-everything needs to be clean
+everything needs to be clean, lean
