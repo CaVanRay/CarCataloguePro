@@ -2,4 +2,4 @@
 -------------------------------------------------------------------------------------------------------------------------- -
 01 / 07 / 2026
 
-go through the entirety of CarCatalogue1
+go through the entirety of CarCatalogue1 line by line
