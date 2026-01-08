@@ -2,16 +2,18 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
  ----- .CPP files -----
 
-**main.cpp**
+**main.cpp**:
   - main()            - starts and organizes everything
 
-**menu.cpp** (might delete later)
+**menu.cpp** (might delete later):
   - optionsMenu()     - (Used to select what function to run) (need to simplify further)
 
-**printer.cpp** (functions for printing and displaying?) 
+**printer.cpp** (functions for printing and displaying?):
   - printCatalogue()  - (Runs through current vector list and displays them all on screen)
   - printCar()        - (Searches for car by index and displays on screen)
 
-**toolFuncs** (functions used by other functions?)
+**toolFuncs** (functions used by other functions?):
   - findCar()         - (Searches for car by index)(Returns pointer to car) **This is a function mostly called by other functions**
+
+**crudFuncs** (CRUD functions):
 
