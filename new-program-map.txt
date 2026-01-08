@@ -9,5 +9,5 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - optionsMenu()     - (Used to select what function to run)
   - printCatalogue()  - (Runs through current vector list and displays them all on screen)
   - printCar()        - (Searches for car by index and displays on screen)
-  - findCar()         - (Searches for car by index)(Returns pointer to car)
+  - findCar()         - (Searches for car by index)(Returns pointer to car) **This is a function mostly called by other functions**
 
