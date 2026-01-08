@@ -1,3 +1,6 @@
 This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner more intuitive outline here before I just start opening files 
 
  ----- .CPP files -----
+
+**main.cpp**
+  - main()            - starts and organizes everything
