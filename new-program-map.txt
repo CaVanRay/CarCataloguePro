@@ -15,7 +15,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 **toolFuncs.cpp** (functions used by other functions?):
   - findCar()         - (Searches for car by index)(Returns pointer to car) **This is a function mostly called by other functions**
 
-**crudFuncs** (CRUD functions):
+**crudFuncs.cpp** (CRUD functions):
   - addCar()          - (Takes car info and then creates new object with input data)
   - repCar()		  - (Replaces one car with another) (NOT DONE)
   - editCar()         - (Searches for car by index, then allows user to edit existing data)
