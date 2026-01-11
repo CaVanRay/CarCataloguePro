@@ -36,3 +36,18 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
  ----- .H files -----
 
+**CarCatHeaders.h:**
+  - "<algorithm>"
+  - "<iostream>"
+  - "<stdlib.h>"
+  - "<fstream>"
+  - "<sstream>"
+  - "<string>"
+  - "<vector>"
+  - "<limits>"
+  - "<cctype>"
+  - "CatFunc.h"
+  - "Cars.h"
+  - "UsePuts.h"
+  - "ValIndex.h"
+  - "Savld.h"
