@@ -30,4 +30,5 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - IndexUpdate()     - (Checks for errors & repairs index after each addition/removal of a catalogue item)
   - getInt()          - Validates int input
   - getDouble()       - Validates double input
+  - getYN()           - Validates bool input
 
