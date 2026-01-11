@@ -31,4 +31,5 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - getInt()          - Validates int input
   - getDouble()       - Validates double input
   - getYN()           - Validates bool input
+  - isValidVin()      - Validates VIN number input
 
