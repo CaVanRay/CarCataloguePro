@@ -24,3 +24,4 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
 **Savld.cpp** (Save/Load functions):
   - saveCatalogue()   - (Saves current vector list of items to a txt file)
+  - loadCatalogue()   - (Opens txt file of previous catalogue and populates new vector list with information in file)
