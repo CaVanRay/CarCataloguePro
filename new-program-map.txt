@@ -65,6 +65,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - printCar() 
 
 **toolFuncs.h**
+  - findCar()  
 
 **crudFuncs.h**
 
