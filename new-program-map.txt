@@ -48,10 +48,10 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - "<limits>"
   - "<cctype>"
   __Custom headers__
-  - "CatFunc.h"
-  - "UsePuts.h"
-  - "ValIndex.h"
-  - "Savld.h"
+  - "menu.h"
+  - "printer.h"
+  - "toolFuncs.h"
+  - "crudFuncs.h"
   __Class definitions__
   - "Cars.h"
 
