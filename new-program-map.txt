@@ -34,7 +34,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - isValidVin()      - Validates VIN number input
   - getVIN()          - repeatedly asks for vin until valid
 
- ----- .H files -----
+ ----- .H files ----- Where all the functions and libraries are declared
 
 **CarCatHeaders.h:**
   __Library headers__
