@@ -79,5 +79,6 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - loadCatalogue()
 
 **validators.h**
+  - IndexUpdate() 
 
 **cars.h**
