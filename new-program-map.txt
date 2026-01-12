@@ -87,3 +87,4 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - getVIN()  
 
 **cars.h**
+  - Car class definition
