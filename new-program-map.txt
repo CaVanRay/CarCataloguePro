@@ -53,6 +53,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - "toolFuncs.h"
   - "crudFuncs.h"
   - "savld.h"
+  - "validators.h"
   __Class definitions__
   - "Cars.h"
 
@@ -66,4 +67,4 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
 **savld.h**
 
-**Validators.h**
+**validators.h**
