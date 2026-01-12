@@ -52,3 +52,5 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - "UsePuts.h"
   - "ValIndex.h"
   - "Savld.h"
+  __Class definitions__
+  - "Cars.h"
