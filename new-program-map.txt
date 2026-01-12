@@ -68,8 +68,14 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - findCar()  
 
 **crudFuncs.h**
+  - addCar()
+  - repCar()
+  - editCar()
+  - deleteCar()
+  - moveCar() 
 
 **savld.h**
+  - saveCatalogue()
 
 **validators.h**
 
