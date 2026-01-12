@@ -58,6 +58,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
   - "Cars.h"
 
 **menu.h**
+  - optionsMenu()
 
 **printer.h**
 
