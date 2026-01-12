@@ -80,5 +80,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
 **validators.h**
   - IndexUpdate() 
+  - getInt() 
+  - getDouble() 
 
 **cars.h**
