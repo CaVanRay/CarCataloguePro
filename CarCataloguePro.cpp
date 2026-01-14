@@ -8,6 +8,7 @@ int main() {
   car* head = nullptr;
   car* tail = nullptr;
 
+  // Then we initialize the actual catalogue
   std::vector<car*> carCatalogue;
 
   loadCatalogue(head, tail, carCatalogue);
