@@ -8,6 +8,8 @@ int main() {
   car* tail = nullptr;
 
   std::vector<car*> carCatalogue;
+
+  loadCatalogue(head, tail, carCatalogue);
   
 }
 
