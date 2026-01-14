@@ -11,6 +11,7 @@ int main() {
   // Then we initialize the actual catalogue, regardless of whether we have one saved or not, we will need this to hold our cars
   std::vector<car*> carCatalogue;
 
+  // The actually checking for previously saved catalogues is handled in another file, but the function call is loadCatalogue()
   loadCatalogue(head, tail, carCatalogue);
 
   oprionsMenu(head, tail, carCatalogue);
