@@ -8,7 +8,7 @@ int main() {
   car* head = nullptr;
   car* tail = nullptr;
 
-  // Then we initialize the actual catalogue
+  // Then we initialize the actual catalogue, regardless of whether we have one saved or not, we will need this to hold our cars
   std::vector<car*> carCatalogue;
 
   loadCatalogue(head, tail, carCatalogue);
