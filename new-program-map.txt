@@ -36,7 +36,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
  ----- .H files ----- Where all the functions and libraries are declared
 
-**CarCatHeaders.h:**
+**CarCatProHeaders.h:**
   __Library headers__
   - "<algorithm>"
   - "<iostream>"
