@@ -12,7 +12,8 @@ int main() {
   loadCatalogue(head, tail, carCatalogue);
 
   oprionsMenu(head, tail, carCatalogue);
-  
+
+  return 0;
 }
 
 //**********************************************************************************************************************
