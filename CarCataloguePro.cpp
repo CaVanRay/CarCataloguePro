@@ -10,6 +10,8 @@ int main() {
   std::vector<car*> carCatalogue;
 
   loadCatalogue(head, tail, carCatalogue);
+
+  oprionsMenu(head, tail, carCatalogue);
   
 }
 
