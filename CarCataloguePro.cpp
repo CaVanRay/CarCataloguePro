@@ -14,6 +14,7 @@ int main() {
   // The actually checking for previously saved catalogues is handled in another file, but the function call is loadCatalogue()
   loadCatalogue(head, tail, carCatalogue);
 
+  // Now that everything is setup, we can proceed to actually using the program to do whatever it is we want/need to do
   oprionsMenu(head, tail, carCatalogue);
 
   return 0;
