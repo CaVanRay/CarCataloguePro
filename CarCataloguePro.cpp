@@ -4,6 +4,7 @@
 
 int main() {
 
+  car* head = nullptr;
 
   
 }
