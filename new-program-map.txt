@@ -2,7 +2,7 @@ This is the layout for the new CarCataloguePro, I'm going to plan out a cleaner 
 
  ----- .CPP files -----
 
-**main.cpp**:
+**CarCataloguePro.cpp**:
   - main()            - starts and organizes everything
 
 **menu.cpp** (might delete later):
