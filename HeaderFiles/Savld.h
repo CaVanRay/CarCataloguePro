@@ -4,4 +4,4 @@
 
 // Functions for checking for previous catalogues saved
 
-void saveCataloguue(car*& head);
+void saveCatalogue(car*& head);
