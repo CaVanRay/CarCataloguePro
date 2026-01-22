@@ -14,3 +14,4 @@ double getDouble(const std::string& prompt);
 
 bool getYN(const std::string& prompt);
 
+bool isValidVin(car*& head, const std::string& vin);
