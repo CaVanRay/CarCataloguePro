@@ -6,3 +6,4 @@
 
 void indexUpdate(car*& head, std::vector<car*>& carCatalogue);
 
+std::string getString(const std::string& prompt);
