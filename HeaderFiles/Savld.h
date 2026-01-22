@@ -7,3 +7,5 @@
 void saveCatalogue(car*& head);
 
 // Function for checking for previous catalogues saved
+// If it exists it takes the catalogue save file 
+// & loads it into this instance of carcatalogue
