@@ -2,8 +2,8 @@
 #include <vector>
 #include "Cars.h"
 
-// 
+// Function for saving current catalogue to file
 
 void saveCatalogue(car*& head);
 
-// Functions for checking for previous catalogues saved
+// Function for checking for previous catalogues saved
